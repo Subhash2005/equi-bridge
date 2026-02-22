@@ -18,3 +18,5 @@ backend/equibridge.db
 # OS
 .DS_Store
 Thumbs.db
+# Ignore environment variables
+.env
